@@ -1,0 +1,24 @@
+{
+  "name": "__project_slug",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "hello@solidwebteam.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "owl.carousel": "OwlCarousel2#~2.0.0-beta.3",
+    "modernizr": "~3.3.1",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
